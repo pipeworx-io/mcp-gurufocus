@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gurufocus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GuruFocus MCP — wraps the GuruFocus Data API (gurufocus.com/data-api)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-f8e33b58571d2493a73ad139bb96cc4626e030b7a0dfb76cfac0f630aa4b4eaf",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-48ada74e3e6bf88cceb31df336843de0f26e572052e12f63f76bf4f6fb3480bd",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
