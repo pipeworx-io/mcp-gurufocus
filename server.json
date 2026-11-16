@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/gurufocus",
-  "title": "Gurufocus",
-  "description": "GuruFocus MCP — wraps the GuruFocus Data API (gurufocus.com/data-api)",
-  "version": "0.2.1",
+  "title": "GuruFocus (Unofficial)",
+  "description": "Unofficial GuruFocus MCP — wraps the GuruFocus Data API (gurufocus.com/data-api)",
+  "version": "0.2.2",
   "websiteUrl": "https://pipeworx.io/packs/gurufocus",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-gurufocus",
